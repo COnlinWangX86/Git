@@ -4,3 +4,4 @@ hello world!
 hello world! hello master merge test!
 hello world! hello feature-branch merge test!
 hello world! hello merge test!
+test from Github Repo.
