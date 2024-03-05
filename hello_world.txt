@@ -1,6 +1,6 @@
 hello world! hello feature-branch!
 hello world!
 hello world!
-hello world!
+hello world! hello master merge test!
 hello world!
 hello world! hello merge test!
